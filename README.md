@@ -1,0 +1,1 @@
+This project is a recreation of the classic Pac-Man game, developed entirely in Rust as a hands-on way to learn the language and experiment with game development concepts such as rendering, input handling, state management, object collision detection, and performance optimization.
